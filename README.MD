@@ -1,4 +1,4 @@
-бот:             https://t.me/Questtime001bot
+бот:             https://t.me/Questtime001bot\n
 телеграм-группа: https://t.me/+mLZGiReqA9o0YTRi
 
 
