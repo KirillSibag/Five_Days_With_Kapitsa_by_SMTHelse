@@ -31,7 +31,6 @@ tasks = ["Поцелуй фото Капицы.", "Напиши 100 раз 'Лю
 from random import choice as ch
 nowQuest = "что?"
 
-#2089548580
 # В большинстве случаев целесообразно разбить этот хэндлер на несколько маленьких
 @bot.callback_query_handler(func=lambda call: True)
 def callback_inline(call):
